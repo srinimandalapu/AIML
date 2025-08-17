@@ -1,0 +1,4 @@
+https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d
+https://christophm.github.io/interpretable-ml-book/
+https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
